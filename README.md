@@ -1,0 +1,2 @@
+# ScrapyPractice
+ My scrapy projects
